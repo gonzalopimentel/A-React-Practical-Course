@@ -1,0 +1,8 @@
+{
+  "presets": [
+    // To work with ECMA 5 AND 6
+    "@babel/preset-env",
+    // To work with JSX and React
+    "@babel/preset-react"
+  ]
+}
